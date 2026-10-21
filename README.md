@@ -1,6 +1,8 @@
 # Olá! 👋 Eu sou o Herberth
 
-📊 **Analista de Dados / Engenheiro de Dados**, com mais de 4 anos de experiência em BI, pipelines de dados e modelagem dimensional.
+📊 **Analista de Dados / BI**, com um pé na **Engenharia de Dados** — mais de 4 anos de experiência em BI, pipelines de dados e modelagem dimensional.
+
+🤖 Também desenvolvo outros projetos com apoio de IA generativa (*vibe coding*).
 
 🎯 Meu objetivo é transformar dados brutos em pipelines confiáveis e decisões de negócio.
 
@@ -36,24 +38,6 @@
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 🧰 Versionamento e DevOps
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-
----
-
-## 🚀 Projetos em destaque
-
-### 🏦 [Pipeline SELIC × IPCA — Databricks](https://github.com/herberthalvees/case-bcb)
-Pipeline de dados ponta a ponta em arquitetura medalhão (Bronze → Silver → Gold) sobre Delta Lake e Unity Catalog, calculando o juro real mensal a partir de séries públicas do Banco Central do Brasil. 18 checagens automáticas de qualidade, idempotência comprovada pelo histórico do Delta e resultado validado contra os números oficiais do IBGE.
-
-### 🛒 [Painel de Gestão para E-commerce Multi-loja](https://github.com/herberthalvees/shop-ice-dashboard)
-Painel full-stack (sem backend separado) para gestão de uma operação de e-commerce multi-loja: pedidos, estoque, financeiro, ads e atendimento, com sincronização automática via API, resumo diário do negócio por WhatsApp e chat interno com IA.
-
-🔗 **[Ver demo ao vivo](https://dreamice.shop)** — clique em "Conta demo (dados fictícios)" na tela inicial.
 
 ---
 
