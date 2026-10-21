@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou o Herberth
 
-📊 **Analista de Dados / BI**, com um pé na **Engenharia de Dados** — mais de 4 anos de experiência em BI, pipelines de dados e modelagem dimensional.
+📊 **Analista de Dados / BI**, com um pé na **Engenharia de Dados** mais de 4 anos de experiência em BI, pipelines de dados e modelagem dimensional.
 
 🤖 Também desenvolvo outros projetos com apoio de IA generativa (*vibe coding*).
 
